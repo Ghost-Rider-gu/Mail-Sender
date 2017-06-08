@@ -1,6 +1,6 @@
-# Mailing-on-T-SQL
-Implementation of mail in the language of T-SQL
+# Mail Sender with T-SQL 
 
+Implementation of mail in the language of T-SQL
 
 This example shows how to clean the T-SQL do mailings.
 To post dispatch earned, it is necessary (open MS SQL Server Management Studio):
